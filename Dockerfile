@@ -1,6 +1,6 @@
-FROM debian:wheezy
+FROM armbuild/ocs-distrib-debian
 
-MAINTAINER Clemens Stolle klaemo@fastmail.fm
+MAINTAINER Arnaud de Mouhy <arnaud@flyingpingu.com>
 
 # Install instructions from https://cwiki.apache.org/confluence/display/COUCHDB/Debian
 
